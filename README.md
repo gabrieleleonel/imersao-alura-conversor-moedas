@@ -2,7 +2,7 @@
 
 # To Do
 
-1. Criar Home de Seleção de Versão do Projeto
+## 1. Criar Home de Seleção de Versão do Projeto
    
 Versão 1 - Projeto feito na imersão dev
 
